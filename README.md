@@ -22,4 +22,4 @@ Me chamo Ivison lima, sou desenvolvedor Fron-End, estou aprendendo e criando pro
 
 
 
-<a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedim"/> </a>
+<a href="https://www.linkedin.com/in/ivison-alves-de-lima-3a5a36315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedim"/> </a>
