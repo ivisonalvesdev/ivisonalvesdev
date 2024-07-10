@@ -1,6 +1,6 @@
 ## Hi there :orange_book: :pencil2:
 
-Me chamo Ivison lima, sou desenvolvedor Fron-End, estou aprendendo e criando projetos com:
+Me chamo Ivison lima, sou desenvolvedor Front-end, estou aprendendo e criando projetos com:
 <br>
 <br>
 <div>
