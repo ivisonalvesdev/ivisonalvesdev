@@ -1,6 +1,6 @@
 ## Hi there :orange_book: :pencil2:
 
-Me chamo Ivison lima, sou desenvolvedor Front-end, estou aprendendo e criando projetos com:
+Me chamo Ivison Lima, sou desenvolvedor FullStack, aqui esta um pouco do meu trabalho!
 <br>
 <br>
 <div>
@@ -11,10 +11,6 @@ Me chamo Ivison lima, sou desenvolvedor Front-end, estou aprendendo e criando pr
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo github"/>
 </div>
 <br>
-<br>
-
-[![Ivison Lima](https://github-readme-stats.vercel.app/api?username=ivisonalvesdev)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <br>
 
